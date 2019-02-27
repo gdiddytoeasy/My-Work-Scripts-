@@ -1,0 +1,1 @@
+exec msdb.dbo.rds_task_status
